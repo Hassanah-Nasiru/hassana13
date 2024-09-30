@@ -1,0 +1,32 @@
+.home{
+font-size: larger;
+}
+
+h1{ 
+    padding:50px ;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    color:white;
+    text-align: left;
+    background-color: peachpuff;
+    display: inline-flex;
+    font-family: Arial;
+}
+
+h2{
+    color:white;
+    text-align: left;
+    background-color:peachpuff;
+    margin-right: 30px;
+}
+
+h3{
+    color:white;
+    text-align: left;
+    background-color: peachpuff;
+}
+
+body{
+    background-color: rosybrown;
+}
+

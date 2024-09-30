@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+}
+
+.body{
+    width: 80%;
+    margin: auto;
+    background-color: beige;
+}
+
+.header{
+    display: flex;
+    background-color: rgb(240, 101, 42);
+    /* border: dotted; */
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    padding:10px;
+    border-top:solid orangered;
+}
+ol a{
+font-size: smaller;
+color: grey;
+}
+header a{
+    color: black;
+}
+footer p {
+    color: gray;
+}

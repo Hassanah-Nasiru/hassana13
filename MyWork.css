@@ -1,0 +1,39 @@
+.main_heading{
+    background-color: grey;
+    font-size: 14px;
+}
+.main{
+    background-color: blue;
+}
+
+.main_footer{
+    background-color: green;
+}
+.main_header,.main_footer{
+    background-color: red;
+}
+#container{
+    font-size: 16px;
+}
+footer p{
+background-color: red;
+}
+h1+h4{
+    background-color: blue;
+}
+ul>li{
+    background-color: peachpuff;
+}
+a[href="#"]{
+background-color: pink;
+}
+li:first-child{
+color: aqua;
+}
+li:last-child{
+    color: purple;
+}
+li:nth-child(2){
+    color: brown;
+}
+
